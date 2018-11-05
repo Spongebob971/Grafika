@@ -1,0 +1,8 @@
+﻿  main.cpp
+c:\škúla\zpg\1.projekt\prvniprojekt\prvniprojekt\sphere.h(2891): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\škúla\zpg\1.projekt\prvniprojekt\prvniprojekt\main.cpp(64): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\škúla\zpg\1.projekt\prvniprojekt\prvniprojekt\main.cpp(65): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\škúla\zpg\1.projekt\prvniprojekt\prvniprojekt\main.cpp(118): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\škúla\zpg\1.projekt\prvniprojekt\prvniprojekt\main.cpp(119): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\škúla\zpg\1.projekt\prvniprojekt\prvniprojekt\main.cpp(120): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  PrvniProjekt.vcxproj -> C:\škúla\ZPG\1.Projekt\PrvniProjekt\Debug\PrvniProjekt.exe
